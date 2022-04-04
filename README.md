@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MoCs1
-- 👀 I’m interested in ML & Data Analysis & NLP
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on NLP Projects
-- 📫 How to reach me whatsapp: +201140409792
+- 👀 I’m interested in linux and security
+- 💞️ I’m looking to collaborate on security projects
 
 <!---
 MoCs1/MoCs1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
